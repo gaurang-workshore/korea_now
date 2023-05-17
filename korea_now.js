@@ -1,5 +1,5 @@
 var swiper = new Swiper('.home-slider-wrap', {
-    slidesPerView: 1,
+    slidesPerView: 3,
     spaceBetween: 30,
     grabCursor: true,
     speed: 500,
